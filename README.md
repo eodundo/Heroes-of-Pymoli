@@ -1,4 +1,4 @@
-You must use the Pandas Library and the Jupyter Notebook to calculate:
+Using the Pandas Library and the Jupyter Notebook to calculate:
 Total Number of Players
 Number of Unique Items
 Average Purchase Price
